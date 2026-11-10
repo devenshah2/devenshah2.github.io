@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Interlocking DS monogram in forest green</title>
+  <rect width="64" height="64" fill="#f5f1e8"/>
+  <path fill="#18543b" fill-rule="evenodd" d="M7 8H29L43 20V44L29 56H7V49H13V15H7ZM21 16V48H27L35 41V23L27 16Z"/>
+  <path transform="translate(13 7) scale(.8)" fill="#18543b" stroke="#f5f1e8" stroke-width="3" stroke-linejoin="miter" d="M53 7V22H47V18H36L32 22V26L48 34L54 40V49L46 57H32L26 53V58H20V43H27V47L33 50H42L47 46V43L30 35L25 29V19L33 11H45L47 13V7Z"/>
+</svg>
